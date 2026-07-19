@@ -25,13 +25,3 @@ Progression within the operational tracks is segmented by technical stack layers
 
 ---
 
-## Repository Index and Chronological Tracking
-
-The directory branches are organized sequentially by day identifiers (`day1`, `day2`, `day3`) within their respective language nodes to capture precise incremental development history. Every file represents verified code modules executed and manually tested to ensure cross-browser parsing compliance.
-
-## Execution Instruction
-
-To review or launch any local interface within this repository:
-1. Navigate to the targeted structural tier directory (e.g., `FRONTEND`).
-2. Drill down into the specific language directory (e.g., `HTML`).
-3. Select the chronological day marker folder and load the `.html` file into any modern web browser or direct parsing terminal engine.
